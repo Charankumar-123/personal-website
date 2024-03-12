@@ -1,0 +1,102 @@
+I am charan kumar. I am from srikalahasti.
+ Now I am studying B.tech 4th year from srivenkateswara engineering college of department of Computer Science of Engineering which is specialized in artificial intelligence and machine learning.
+Coming to my family consists of 4 members.my father,my mother ,my sister and myself..
+And I have skills on python,java,sql,git,github.
+I have good academic score during my studies,and my hobbies are playing cricket and watching cricket and watching movies,,.
+ I am doing a personal portfolio
+ website of ours ,,..
+
+
+
+<!DOCTYPE html>    
+ <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiq="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale.0">
+        <title>personal portfolio website</title>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="images/logo1.png" class="logo">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Contact</a></li>
+
+                </ul>
+            </nav>
+            <div class="header-text">
+                <p>software developer</p>
+                <h1>Hi, I am <span>Charankumar</span><br> from India</h1>
+            </div>
+        </div>
+
+    </div>
+
+<!-- -----------about section--------- -->
+    <div id = "about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+
+                    <img src="images/passportsize photo.jpeg">
+                </div>
+                    <div class="about-col-2">
+                        <h1 class="sub-title">About Me</h1>
+                        <p>I am charan kumar. I am from srikalahasti.
+                            Now I am studying B.tech 4th year from srivenkateswara engineering college of department of Computer Science of Engineering which is specialized in artificial intelligence and machine learning.
+                           Coming to my family consists of 4 members.my father,my mother ,my sister and myself..
+                           And I have skills on python,java,sql,git,github.
+                           I have good academic score during my studies,and my hobbies are playing cricket and watching cricket and watching movies,,.
+                            I am doing a personal portfolio website of ours ,,..</p>
+                            
+                            <div class="tab-titles">
+                                <p class="tab-links active-link">Skills</p>
+                                <p class="tab-links">Experience</p>
+                                <p class="tab-links">Education</p>
+                            </div>
+                            <div class="tab-contents activ-tab">
+                                <ul>
+                                    <li><span>Software developer</span><br>Developing applications</li>
+                                    <li><span>web development</span><br>web app development applications</li>
+                                    <li><span>App development</span><br>Designing web/app interface applications</li>
+                                </ul>
+                            </div>
+                            <div class="tab-contents">
+                                <ul>
+                                    <li><span>fresher</span><br>I have only thereotical knowledge during my academics.. I am a fresher now</li>
+                                    <li><span>Smart Interns</span><br>Data analytics</li>
+                                    <li><span>sync interns</span><br>Designing quiz app,desiging music app</li>
+                                </ul>
+                            </div>
+                            <div class="tab-contents">
+                                <ul>
+                                    <li><span>2018</span><br>10th class from Z.P.P HIGH SCHOOL</li>
+                                    <li><span>2020</span><br>INTERMEDIATE from M.G.M JR COLLEGE</li>
+                                    <li><span>2024</span><br>B.TECH from SRI VENKATESWARA ENGINEERING COLLEGE</li>
+
+                                </ul>
+                            </div>
+
+                    </div>
+                    
+                
+            </div>
+        </div>
+
+        
+
+    </div>
+
+
+
+</body>
+       
+       
+ </html>
